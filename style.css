@@ -51,3 +51,8 @@ nav a:hover {
     display: none;
     background-color: #EAECEF;
 }
+#skills {
+    padding: 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #EAECEF;
+}
