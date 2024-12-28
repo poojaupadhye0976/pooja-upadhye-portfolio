@@ -56,3 +56,9 @@ nav a:hover {
     background-color: #FFFFFF;
     border: 1px solid #EAECEF;
 }
+footer {
+    background-color: #001F3F;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
